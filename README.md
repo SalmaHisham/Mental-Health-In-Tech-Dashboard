@@ -1,8 +1,8 @@
 # Mental Health In Tech Vizualization Dashboard
 
 ## Motivation
-Mental health includes our emotional, psychological, and social well-being. It can affect our interactions with the world, work performance and our physical health. Nowadays, mental health topic attracts more and more attentions.
-This Dataset was collected by a survey made by OSMI that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
+Mental health includes our emotional, psychological, and social well-being. It can affect our interactions with the world, work performance and our physical health. Nowadays, mental health topic attracts more and more attentions. </br>
+This Dataset was collected by a survey made by OSMI that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. </br>
 Check out the dashboard here: https://mental-health-tech-dashboard.herokuapp.com/
 
 ## Dashboard 
